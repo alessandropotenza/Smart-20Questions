@@ -1,5 +1,5 @@
-< Is it an creature?
-< Is it a mammal?
+< Is it a creature?
+< Is it an mammal?
 < human
 >
 < shark
